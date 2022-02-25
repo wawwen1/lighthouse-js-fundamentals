@@ -1,4 +1,4 @@
-let range = function (start, end, step) {
+function range (start, end, step) {
 let finalArray = [];
 
   if (step <= 0) {
